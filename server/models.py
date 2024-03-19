@@ -9,4 +9,12 @@ metadata = MetaData(naming_convention={
 
 db = SQLAlchemy(metadata=metadata)
 
-# write your models here!
+# Meme ########
+# id -> int
+# img_url -> str
+# caption -> str
+# likes -> int
+# #############
+
+class Meme():
+    pass

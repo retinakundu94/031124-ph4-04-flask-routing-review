@@ -1,3 +1,13 @@
-# Flask
+# Flask Routing Review
 
-Write your readme here!
+## Learning Goals
+
+- Request / response cycle
+
+- Building models
+
+- Seeding data
+
+- RESTful routes
+
+- Flask with React

@@ -23,7 +23,7 @@ a:hover {
 }
 
 body {
-  margin: 0;
+  margin: 1em;
   display: flex;
   place-items: center;
   min-width: 320px;
@@ -65,4 +65,23 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.card {
+  background-color: white;
+  border-radius: 1em;
+  margin: 1em;
+  color: black;
+  padding: 1em;
+  text-align: center;
+}
+
+.card img {
+  border: solid black 2px;
+  width: 20em;
+}
+
+input, button {
+  margin: 0.5em;
+  margin: 0.5em;
 }
