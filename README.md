@@ -10,6 +10,8 @@
 
 - RESTful routes
 
+- CORS
+
 - Flask with React
 
 ## Getting Started - Backend
